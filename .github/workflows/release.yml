@@ -1,0 +1,40 @@
+name: Publish release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag (e.g. 2026.10.18)
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and verify
+        run: |
+          mkdir dist
+          grep -vE '^\s*(#|$)' releases/manifest.txt | while read -r sum url; do
+            f="dist/$(basename "$url")"
+            curl -fL --retry 3 -o "$f" "$url"
+            echo "$sum  $f" | sha256sum -c -
+          done
+          (cd dist && sha256sum * > SHA256SUMS.txt)
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "已签名的逸云(Camay)软件。ZIP 为便携版,MSI 为安装版。下载后可用 SHA256SUMS.txt 核对:"
+            echo
+            echo '```'
+            cat dist/SHA256SUMS.txt
+            echo '```'
+          } > notes.md
+          gh release create "${{ inputs.tag }}" dist/* --title "${{ inputs.tag }}" --notes-file notes.md
