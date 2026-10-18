@@ -1,13 +1,13 @@
 # SHA-256 下载地址 (新增软件:在末尾追加一行即可)
-c319c6e52398b14ad32111aa6ea39c0cd9907ed58bf44bfb8c458f06d3705f29 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.3-win64.zip
-882b45e5c1a490a81a426fc0492e4c283f4183f613da1a58544decfe1ecba7dd https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.3-windows-x64.msi
-7679095cd55c33cae62935de6b09c70bb19f4731e2e7f6607d9cc33b32167bee https://dl.wvvw.ca/software/photo/CamayPhoto-0.9.1-win64.zip
-e50020f0a9f284688a6b740f60f862a4cd771d1eeb12ebbb986c1fc37bb23e47 https://dl.wvvw.ca/software/photo/CamayPhoto-0.9.1-windows-x64.msi
-1ce824172bcdad3df4da827e82a69e24a014fb3a9a13fa15ccff2012a822c36f https://dl.wvvw.ca/software/light/CamayLight-0.8.0-win64.zip
-475fa0bca30ffddb8893af5312be2a5374987bc6ed157f09b19a72d109f126da https://dl.wvvw.ca/software/light/CamayLight-0.8.0-windows-x64.msi
-5f1a0e57b055b44838acda72dcc3fe80dfc204b86851c4e5ec18984459903893 https://dl.wvvw.ca/software/writer/CamayWriter-0.7.0-win64.zip
-9f84fa231af49a209e4e8d922b1d756383276c474efb5438f52db65034b32193 https://dl.wvvw.ca/software/writer/CamayWriter-0.7.0-windows-x64.msi
-e3fd146768dce0358d4ab89ec646e3c41c71a9549d1168adc641d9a1e1e84807 https://dl.wvvw.ca/software/grid/CamayGrid-0.7.0-win64.zip
-df2e29a218c30730f464e8f09b8c4937827bba17e6281d1cab62d676c22e3a4a https://dl.wvvw.ca/software/grid/CamayGrid-0.7.0-windows-x64.msi
-abd2585c6501b4eba189dc72d2a32d8bb92f9a47b256a46ec3ad5a6ade9aee81 https://dl.wvvw.ca/software/deck/CamayDeck-0.7.0-win64.zip
-02274bede2e2e017da8490100bce3da7d7f6bf375d6df0783bd7361e308a2b65 https://dl.wvvw.ca/software/deck/CamayDeck-0.7.0-windows-x64.msi
+976015863944907fa0e5fba6dfa9958dd1b648fc5bbab4df3081b12dd9e8f5a3 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.4-win64.zip
+7eb71f53198bc5a2baf11e55668936b392704d60da16e9c2879615a45e21a2a5 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.4-windows-x64.msi
+a6187520346de44a4ac9751cecf700057bf21faf1cd304dc727ef1d59e885bc6 https://dl.wvvw.ca/software/photo/CamayPhoto-0.9.2-win64.zip
+dfeee5aaa9671b8fdf729e6df55e7b9e44fab5211a7caa6e6db7bd1c081ae696 https://dl.wvvw.ca/software/photo/CamayPhoto-0.9.2-windows-x64.msi
+b8deed2e32ea5aa5914ba5272323f5a2cd45615621098a3230d2ad5dabe4aaab https://dl.wvvw.ca/software/light/CamayLight-0.8.1-win64.zip
+a40ae35950a6a367b02c09f369fbc8f5494c2541ec576bffdaf1f3bf47a33831 https://dl.wvvw.ca/software/light/CamayLight-0.8.1-windows-x64.msi
+d0c604285cc6fd8c5e0a5420e56a47f8cd276b5540477af333f68434159c2f41 https://dl.wvvw.ca/software/writer/CamayWriter-0.7.1-win64.zip
+3d7320dba946398ffa1d8203eca1c6bc91756cd250ac64c2d978bb151c352ff7 https://dl.wvvw.ca/software/writer/CamayWriter-0.7.1-windows-x64.msi
+1fb46276c72920f8c5cf537d514a9056b0fa4debc37f8059c2aa5427e8a99a13 https://dl.wvvw.ca/software/grid/CamayGrid-0.7.1-win64.zip
+031491fd4958169a682907c954643435a11bead8ad87804586df4382e58d70ea https://dl.wvvw.ca/software/grid/CamayGrid-0.7.1-windows-x64.msi
+15173ab785d43e7457a7a40189af723e66d1929252457146d8aeebd85cace1ef https://dl.wvvw.ca/software/deck/CamayDeck-0.7.1-win64.zip
+a67e9b2abf95b0d2b6378d810146365a5f19a66d6def60910be1462dcad750e0 https://dl.wvvw.ca/software/deck/CamayDeck-0.7.1-windows-x64.msi
