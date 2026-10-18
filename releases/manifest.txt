@@ -9,5 +9,5 @@ f07c7d25d3963d18540ace0b0d582f98a79fb72e4e13a494dd34bd17ff02a3c9  https://dl.wvv
 9f84fa231af49a209e4e8d922b1d756383276c474efb5438f52db65034b32193  https://dl.wvvw.ca/software/writer/CamayWriter-0.7.0-windows-x64.msi
 e3fd146768dce0358d4ab89ec646e3c41c71a9549d1168adc641d9a1e1e84807  https://dl.wvvw.ca/software/grid/CamayGrid-0.7.0-win64.zip
 df2e29a218c30730f464e8f09b8c4937827bba17e6281d1cab62d676c22e3a4a  https://dl.wvvw.ca/software/grid/CamayGrid-0.7.0-windows-x64.msi
-beac9bc59438afaf9519549720250854e13642217a6799c33accf9fc2ccce7ea  https://dl.wvvw.ca/software/deck/CamayDeck-0.7.0-win64.zip
-2e69920e9fd2816c8e049e9a6aafb1d6bdbe68fb2c0442f87c488df1322411fc  https://dl.wvvw.ca/software/deck/CamayDeck-0.7.0-windows-x64.msi
+abd2585c6501b4eba189dc72d2a32d8bb92f9a47b256a46ec3ad5a6ade9aee81  https://dl.wvvw.ca/software/deck/CamayDeck-0.7.0-win64.zip
+02274bede2e2e017da8490100bce3da7d7f6bf375d6df0783bd7361e308a2b65  https://dl.wvvw.ca/software/deck/CamayDeck-0.7.0-windows-x64.msi
