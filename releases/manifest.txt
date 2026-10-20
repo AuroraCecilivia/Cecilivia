@@ -1,6 +1,6 @@
 # SHA-256 下载地址 (新增软件:在末尾追加一行即可)
-976015863944907fa0e5fba6dfa9958dd1b648fc5bbab4df3081b12dd9e8f5a3 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.4-win64.zip
-7eb71f53198bc5a2baf11e55668936b392704d60da16e9c2879615a45e21a2a5 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.4-windows-x64.msi
+c2551d13710b9b4afafe1a1d2520afcf31cb14525664847d4619d0ae2a325f55 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.5-win64.zip
+689fc43ae97d4b77e19a95f452190bc877b65541a969656da63f07bec2ac2701 https://dl.wvvw.ca/software/pdf/CamayPDF-0.7.5-windows-x64.msi
 a6187520346de44a4ac9751cecf700057bf21faf1cd304dc727ef1d59e885bc6 https://dl.wvvw.ca/software/photo/CamayPhoto-0.9.2-win64.zip
 dfeee5aaa9671b8fdf729e6df55e7b9e44fab5211a7caa6e6db7bd1c081ae696 https://dl.wvvw.ca/software/photo/CamayPhoto-0.9.2-windows-x64.msi
 b8deed2e32ea5aa5914ba5272323f5a2cd45615621098a3230d2ad5dabe4aaab https://dl.wvvw.ca/software/light/CamayLight-0.8.1-win64.zip
