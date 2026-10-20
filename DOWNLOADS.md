@@ -4,7 +4,7 @@
 
 | 软件 | 版本 | 便携版 | 安装版 |
 |---|---|---|---|
-| 逸云PDF | 0.7.4 | CamayPDF-0.7.4-win64.zip | CamayPDF-0.7.4-windows-x64.msi |
+| 逸云PDF | 0.7.5 | CamayPDF-0.7.5-win64.zip | CamayPDF-0.7.5-windows-x64.msi |
 | 逸云图像编辑 | 0.9.2 | CamayPhoto-0.9.2-win64.zip | CamayPhoto-0.9.2-windows-x64.msi |
 | 逸云图库 | 0.8.1 | CamayLight-0.8.1-win64.zip | CamayLight-0.8.1-windows-x64.msi |
 | 逸云文字 | 0.7.1 | CamayWriter-0.7.1-win64.zip | CamayWriter-0.7.1-windows-x64.msi |
